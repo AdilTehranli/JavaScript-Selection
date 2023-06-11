@@ -31,7 +31,7 @@ let img_arr = [
   [`img/m5.jpg`, `img/m4.jpg`],
   [`img/astra.jpg`, `img/vectra.jpg`],
   [`img/fusin.jpg`, `img/focus.jpg`],
-  ['img/optim.jpg"', `img/rio.jpg`],
+  ['./img/optima.jpg', `img/rio.jpg`],
 ];
 
 function image(value) {
